@@ -1,0 +1,22 @@
+#stop_watch {
+    font-size: 30px;
+}
+
+#start {
+    width: 100px;
+    height: 50px;
+}
+
+#stop {
+    width: 100px;
+    height: 50px; 
+}
+
+#reset {
+    width: 100px;
+    height: 50px; 
+}
+
+.buttons {
+    margin-top: 50px;
+}
